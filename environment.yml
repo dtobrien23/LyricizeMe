@@ -1,0 +1,7 @@
+name: lyricize-me
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - flask
+prefix: /Users/deanobrien/opt/anaconda3/envs/lyricize-me
