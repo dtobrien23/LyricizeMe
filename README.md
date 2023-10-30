@@ -16,4 +16,4 @@ A comprehensive data set of Genius song data gathered by CarlosGDCJ (https://www
 4. It filters out annotations with low votes and provides the song title, artist name, lyrics, and annotation as a JSON response.
 5. If no suitable song is found or the artist is not in the database, it returns an error message.
 ## Contact
-If you have any questions or need further information, please contact me via the repository.
+If you have any questions or need further information, feel free to contact me via the repository.
